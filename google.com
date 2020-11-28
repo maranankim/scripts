@@ -1,0 +1,22 @@
+total 76
+-rwxr-xr-x 1 ubuntu ubuntu  60 Nov 28 02:02 boolean.sh
+-rwxr-xr-x 1 ubuntu ubuntu  61 Nov 28 01:51 calc.sh
+-rwxr-xr-x 1 ubuntu ubuntu 157 Nov 28 01:36 cars.sh
+-rwxr-xr-x 1 ubuntu ubuntu 144 Nov 28 02:05 case.sh
+-rwxr-xr-x 1 ubuntu ubuntu  53 Nov 28 01:06 copy.sh
+-rwxr-xr-x 1 ubuntu ubuntu 266 Nov 28 02:09 disk_usage.sh
+-rwxr-xr-x 1 ubuntu ubuntu 130 Nov 28 01:59 elif.sh
+-rw-rw-r-- 1 ubuntu ubuntu   0 Nov 28 02:37 google.com
+-rwxr-xr-x 1 ubuntu ubuntu 101 Nov 28 01:58 if.sh
+-rwxr-xr-x 1 ubuntu ubuntu  92 Nov 28 01:32 introduction.sh
+-rwxr-xr-x 1 ubuntu ubuntu 125 Nov 28 01:44 let.sh
+-rwxr-xr-x 1 ubuntu ubuntu 123 Nov 28 01:34 login.sh
+-rwxr-xr-x 1 ubuntu ubuntu  53 Nov 28 01:03 myscript.sh
+-rwxr-xr-x 1 ubuntu ubuntu 114 Nov 28 01:56 nestedif.sh
+-rw-rw-r-- 1 ubuntu ubuntu 112 Nov 28 01:38 sales.txt
+-rwxr-xr-x 1 ubuntu ubuntu 144 Nov 28 01:40 salesreport.sh
+-rwxr-xr-x 1 ubuntu ubuntu 147 Nov 28 01:19 script1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  73 Nov 28 01:18 script2.sh
+-rw-rw-r-- 1 ubuntu ubuntu   0 Nov 28 02:03 test.txt
+-rwxr-xr-x 1 ubuntu ubuntu  53 Nov 28 01:08 testscript.sh
+-rwxr-xr-x 1 ubuntu ubuntu  89 Nov 28 01:10 variable.sh
